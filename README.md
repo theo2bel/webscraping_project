@@ -1,1 +1,1 @@
-project_streamlit is the code to run for running the app. The other notebooks are the different steps of scrapping
+project_streamlit.py is the code to run (python 3.8 -m streamlit project_streamlit.py) for running the app. The other notebooks are the different steps of scrapping
